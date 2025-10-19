@@ -1,0 +1,23 @@
+# Librairie pour récupérer les données financières
+yfinance==0.2.27
+
+# Manipulation de données
+pandas==2.1.1
+numpy==1.27.0
+
+# Gestion des variables d'environnement
+python-dotenv==1.0.1
+
+# Interface console avancée (progress, panels, markdown)
+rich==13.6.0
+
+# Pour la génération IA avec Google Gemini
+google-generativeai==0.1.7
+
+# Visualisation et utils supplémentaires si nécessaire
+matplotlib==3.8.1
+seaborn==0.12.3
+
+# (optionnel) pour tests / linting
+ruff==0.0.284
+bandit==1.8.1
